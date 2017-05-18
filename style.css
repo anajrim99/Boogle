@@ -1,0 +1,22 @@
+h1{
+  position: absolute;
+  margin-left: auto;
+}
+
+body{
+  background: #ffffff;
+}
+#header{
+  display: inline;
+  width: 50%;
+  position: absolute;
+  margin-right: auto;
+}
+#middle{
+  width: 150px;
+  height: 60px;
+  position: relative;
+  margin: auto;
+  padding: auto;
+
+}
